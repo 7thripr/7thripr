@@ -2,6 +2,6 @@
 
 Android Enthusiast. And currently pursuing a Bachelor's in Data Science.
 
-![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh-prakash)
+![Rishabh's github stats](https://github-readme-stats.vercel.app/api?username=rishabh-prakash?theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-prakash)](https://github.com/rishabh-prakashreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-prakash)](https://github.com/rishabh-prakashreadme-stats?theme=radical)
